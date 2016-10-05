@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Labo2</string>
+    <string name="buttonChild">Go to Child Activity</string>
+</resources>
