@@ -24,15 +24,9 @@ public class ChildActivity extends AppCompatActivity
             @Override
             public void onClick(View arg0)
             {
-                Intent intent = new Intent(ChildActivity.this,MainActivity.class);
-                startActivity(intent);
+                setResult(1);
+                finish();
             }
         });
-    }
-
-    public void onClick(View arg0)
-    {
-        setResult(1);
-        finish();
     }
 }
