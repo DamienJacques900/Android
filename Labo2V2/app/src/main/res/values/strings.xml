@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Labo2V2</string>
+    <string name="go_to_the_child">Go to the child</string>
+    <string name="return_parent">Return parent</string>
+</resources>
