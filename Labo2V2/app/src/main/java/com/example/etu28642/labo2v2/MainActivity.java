@@ -36,17 +36,7 @@ public class MainActivity extends AppCompatActivity {
     public void onActivityResult(int requestCode, int resultCode, Intent intent)
     {
         super.onActivityResult(requestCode,resultCode,intent);
-       // if(requestCode==1)
-        //{
-          //  switch(resultCode)
-            //{
-                /*case 0 :*/
         Log.i("id","erreur");
         Toast.makeText(MainActivity.this, Integer.toString(resultCode), Toast.LENGTH_SHORT).show();
-                         //break;
-                //case 1 : Toast.makeText(MainActivity.this, "code : 1", Toast.LENGTH_SHORT).show();
-                  //       break;
-            //}
-        //}
     }
 }

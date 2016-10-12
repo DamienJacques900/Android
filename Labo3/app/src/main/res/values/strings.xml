@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Labo3</string>
+    <string name="choix1">Choix1</string>
+    <string name="phone">Phone</string>
+    <string name="mail">Mail</string>
+    <string name="aller_chez_fils">Aller chez fils</string>
+</resources>
